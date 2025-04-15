@@ -1,0 +1,5 @@
+*.ipynb linguist-detectable=false
+*.py linguist-detectable=true
+*.go linguist-detectable=true
+*.c linguist-detectable=true
+*.cpp linguist-detectable=true
